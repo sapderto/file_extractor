@@ -13,7 +13,7 @@ Links on groups TG depends of this list, example:
 ````python
  urls = ["BookJava", "BookPython"]
 ````
-Bot checks size of files to be sure, that download was successful. After every group chanel configuration file will be dropped, this file contains last processed id of message, so if you need to recheck all downloads just remove it.
+Bot checks size of files to be sure, that download was successful. After every group chanel configuration file will be dropped, this file contains last processed id of message, so if you need to recheck all downloads just remove it. File *.session need your confirmation in TG.
 ## Config file
 
 ```
